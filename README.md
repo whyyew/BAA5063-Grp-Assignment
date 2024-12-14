@@ -44,6 +44,5 @@
 | DELAY_DUE_SECURITY      | Numeric     | Delay caused by security-related issues (in minutes).                                  |
 | DELAY_DUE_LATE_AIRCRAFT | Numeric     | Delay caused by a late-arriving aircraft (in minutes).                                 |
 
-*End of Table*
 
 ---
